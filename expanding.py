@@ -19,4 +19,4 @@ def check(ls):
             return True
 
 ls=list(map(int,input().split()))
-print(check(ls)) # print statement for python idle
+print(check(ls)
